@@ -51,8 +51,3 @@ npm run dev
 ```
 
 Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP client to test the project.
-
-## <a name="snippets">🕸️ Snippets</a>
-
-<details>
-<summary><code>Dummy JSON Data</code></summary>
